@@ -1,5 +1,4 @@
 # C_Programming-Module
-# C_Programming_Module
 ## Module 5
 ### 1.Problem Statement is given below.
 Given two numbers A and B. Print "Yes" if A is greater than or equal to B. Otherwise print "No".
@@ -27,3 +26,4 @@ Given a number N, and N numbers, find maximum number in these N numbers.
 ### 5.Problem Statement is given below.
 Given a number N. Print the maltiplication table of the number from 1 to 12
 ### 6.Problem Statement is given below.
+Given a number N. Print the digits of that number from right to left separated by space.
