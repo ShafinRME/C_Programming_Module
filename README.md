@@ -27,3 +27,19 @@ Given a number N, and N numbers, find maximum number in these N numbers.
 Given a number N. Print the maltiplication table of the number from 1 to 12
 ### 6.Problem Statement is given below.
 Given a number N. Print the digits of that number from right to left separated by space.
+
+## Module 7
+### 1.Problem Statement is given below.
+Print a array in a reverse way.
+### 2.Problem Statement is given below.
+print the summation of array.
+
+## Module 9
+### 1.Problem Statement is given below.
+Inserting a element in an array.
+### 2.Problem Statement is given below.
+Deleting a element from an array.
+### 3.Problem Statement is given below.
+Reversing a array.
+### 4.Problem Statement is given below.
+Replace two array in a one array.
