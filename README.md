@@ -54,3 +54,4 @@ Given a string S. Print the string S from the beginning to the first '\' charact
 
 * Hint: use function getline(cin, s).
 ### 3.Problem Statement is given below.
+Given a string S. Print the summation of its digits.
