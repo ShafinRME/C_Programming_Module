@@ -43,3 +43,14 @@ Deleting a element from an array.
 Reversing a array.
 ### 4.Problem Statement is given below.
 Replace two array in a one array.
+## Module 10
+### 1.Problem Statement is given below.
+Given two strings S and T. Print 2 lines that contain the following in the same order:
+
+* Print the length of S and T separated by space.
+* Print a new string that contains S and T separated by a space.
+### 2.Problem Statement is given below.
+Given a string S. Print the string S from the beginning to the first '\' character without printing the '\'.
+
+* Hint: use function getline(cin, s).
+### 3.Problem Statement is given below.
