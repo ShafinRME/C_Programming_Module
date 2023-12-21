@@ -2,10 +2,12 @@
 
 int main()
 {
-    int num1, num2;
+    int num1, div;
+
     scanf("%d", &num1);
-    num2 = num1 / 1000;
-    if (num2 % 2 == 0)
+
+    div = num1 / 1000;
+    if (div % 2 == 0)
     {
         printf("EVEN\n");
     }
