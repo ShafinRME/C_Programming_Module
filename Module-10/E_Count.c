@@ -3,13 +3,16 @@
 
 int main()
 {
-    char a[1000001];
+    char s1[1000001];
+    scanf("%s", s1);
+    int L = strlen(s1);
     int i, sum = 0;
-    scanf("%s", a);
-    for (i = 0; i < strlen(a); i++)
+
+    for (i = 0; i < L; i++)
     {
-        sum = sum + a[i] - '0';
+        sum = sum + s1[i] - '0';
     }
     printf("%d\n", sum);
+
     return 0;
 }

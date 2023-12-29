@@ -3,12 +3,13 @@
 
 int main()
 {
-    char a[1000001];
-    int i;
-    fgets(a, 1000001, stdin);
-    for (i = 0; a[i] != '\\'; i++)
+    char s1[1000001];
+    int i = 0;
+    fgets(s1, 1000001, stdin);
+    while (s1[i] != '\\')
     {
-        printf("%c", a[i]);
+        printf("%c", s1[i]);
+        i++;
     }
     return 0;
 }
